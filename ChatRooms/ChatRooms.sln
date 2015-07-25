@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ChatRooms", "ChatRooms\ChatRooms.njsproj", "{459FD3C7-917C-4C29-BCC8-C7CC94D525AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9B57A02-3EED-480C-B723-5694755761DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459FD3C7-917C-4C29-BCC8-C7CC94D525AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459FD3C7-917C-4C29-BCC8-C7CC94D525AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459FD3C7-917C-4C29-BCC8-C7CC94D525AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459FD3C7-917C-4C29-BCC8-C7CC94D525AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
