@@ -30,9 +30,12 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="lib\chat_server.js" />
+    <Compile Include="public\javascripts\chat.js" />
+    <Compile Include="public\javascripts\chat_ui.js" />
     <Compile Include="server.js" />
-    <Content Include="package.json" />
     <Content Include="public\index.html" />
+    <Content Include="package.json" />
     <Content Include="public\stylesheets\style.css" />
     <Content Include="README.md" />
   </ItemGroup>
